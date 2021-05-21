@@ -1,0 +1,1 @@
+web: gunicorn pixel.wsgi --log-file -
